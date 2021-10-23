@@ -1,2 +1,2 @@
-# Djanog_Test
+# Django_Test
 Just testing and stuff
